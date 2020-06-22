@@ -85,7 +85,7 @@ header {
 
 .logo {
   width: 124px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .header-left {
@@ -96,14 +96,15 @@ header {
     float: right;
 }
 .header-list li {
-    padding: 10px 25px;
+padding: 10px 10px;
     float: right;
-    color: white;
+    color: #9CD056;
     /* display: block; */
     display: inline-block;
-    opacity: 0.8;
+    opacity: 0.7;
     border-radius: 4px;
-    cursor: pointer
+    cursor: pointer;
+    font-size: medium;
 }
 li {
     list-style: none;
