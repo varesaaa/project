@@ -109,9 +109,6 @@ li {
     list-style: none;
 }
 .header-list li:hover {
-    padding: 10 25px;
-    color: white;
-    display: block;
     opacity: 1;
 }
 
